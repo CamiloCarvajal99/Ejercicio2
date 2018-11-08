@@ -76,5 +76,76 @@ height: 265px;
 background-color: orangered;
 display: inline-block;
 
+}
+ main aside li nav{
+margin:15px 31px;
+width: 85px;
+height: 70px;
+background-color: black;
+
+ }
+ main aside li div{
+margin:9px 10px 0px 25px;
+width: 100px;
+height: 250px; ;
+border-radius: 50px;
+background-color: violet;
+ }  
+ main aside li footer{
+  margin: 15px 0px 10px 40px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: purple;
+ }
+
+ .Pagina2{
+margin: 20px;
+width: 800px;
+
+background-color: gray;
+ }
+
+.Pagina2 article{
+    margin: 15px 15px 0px 25px;
+    width: 350px;
+    
+    display: inline-block;
+    background-color: cadetblue;
+}
+
+.Pagina2 article nav{
+ margin: 15px ;
+width: 140px;
+height: 140px;
+ border-radius: 50%;
+background-color: black;
+display: inline-block;
+}
+
+.Pagina2 footer{
+    margin: 20px 0px 10px 150px;
+    width: 500px;
+    height: 250px;
+    background-color:cadetblue;
+}
+.Pagina2 footer div:first-child{
+    margin-left: 70px;
+}
+.Pagina2 footer div{
+    margin-top: 60px;
+    width: 180px;
+    height: 180px;
+     border-radius: 50%;
+    background-color: yellow;
+    display: inline-block;
+}
+
+.Pagina2 aside {
+    margin: 10px 20px;
+width: 150px;
+height: 120px; 
+background-color: cadetblue;
+display: inline-block;
 
 }
