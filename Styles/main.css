@@ -102,7 +102,7 @@ background-color: violet;
  .Pagina2{
 margin: 20px;
 width: 800px;
-
+height: 800px;
 background-color: gray;
  }
 
@@ -142,10 +142,392 @@ display: inline-block;
 }
 
 .Pagina2 aside {
-    margin: 10px 20px;
+    margin: -3px 20px;
 width: 150px;
 height: 120px; 
 background-color: cadetblue;
 display: inline-block;
 
 }
+
+.Pagina2 aside article{
+    margin: 5px 0px 0px 30px;
+    width: 80px;
+    height: 110px;
+    border-radius: 50px;
+    background-color: black
+}
+
+.Pagina2 aside nav{
+    margin: 6px;
+    padding: 0px;
+    width: 55px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+}
+.pagina3{
+    background-color: gray;
+    width: 780px;
+    height: 950px;
+    margin: 10px auto;
+  }
+  .pagina3 main{
+    background-color: blue;
+    width: 325px;
+    height: 250px;
+    display:inline-block;
+    margin: 15px;
+    padding: 15px;
+  }
+  .pagina3 main article{
+    background-color:yellow;
+    width: 305px;
+    height: 235px;
+    display:inline-block;
+    padding: 15px 0px 0px 15px;
+  }
+  .pagina3 main article footer{
+    margin: -1px;
+    background-color: pink;
+    width: 290px;
+    height: 220px;
+    display:inline-block;
+    vertical-align: top;
+  }
+  .pagina3 main article footer li{
+    background-color: black;
+    width: 74px;
+    height: 74px;
+    display:inline-block;
+    margin: 20px 10px 10px 10px;
+    border-radius:50%; 
+    list-style: none;
+  }
+  .pagina3 main article footer a{
+    background-color: black;
+    width: 65px;
+    height: 65px;
+    display:inline-block;
+    margin: 10px 15px 15px 13px;
+    list-style: none;
+  }
+  .pagina3 aside{
+    background-color:blue;
+    width: 705px;
+    height: 250px;
+    display:inline-block;
+    margin: 15px;
+    padding: 20px;
+  }  
+  .pagina3 aside article{
+    background-color: yellow;
+    width: 685px;
+    height: 230px;
+    display:inline-block;
+    padding: 20px 0px 0px 20px;
+  }
+  .pagina3 aside article h1{
+    background-color: pink;
+    width: 230px;
+    height: 190px;
+    display:inline-block;
+    padding: 20px 0px 0px 20px;
+    vertical-align: top;
+  }
+  .pagina3 aside article h2{
+    background-color: pink;
+    width: 185px;
+    height: 190px;
+    display:inline-block;
+    padding: 20px 0px 0px 20px;
+    margin: 0 0 0 20px;
+    vertical-align: top;
+  }
+  .pagina3 aside article h3{
+    background-color: pink;
+    width: 140px;
+    height: 190px;
+    display:inline-block;
+    padding: 20px 0px 0px 20px;
+    margin: 0 0 0 20px;
+    vertical-align: top;
+  }
+  .pagina3 aside article h1 div{
+    background-color: black;
+    width: 85px;
+    height: 165px;
+    display:inline-block;
+    border-radius: 60%;
+    padding: 10px 3px 10px 15px;
+  }
+  .pagina3 aside article h2 nav{
+    background-color: black;
+    width: 145px;
+    height: 65px;
+    border-radius: 60%;
+    padding: 20px 15px 5px 15px;
+    margin: 0 0 5px 0;
+  }
+  .pagina3 aside article h3 li{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    display:inline-block;
+    margin: 2px 15px 15px 25px;
+    border-radius:50%; 
+    list-style: none;
+  }
+  .pagina3 aside article section{
+    background-color:  pink;
+    width: 625px;
+    height: 170px;
+    padding: 20px;
+  }
+  .pagina3 aside article section footer{
+    background-color: burlywood;
+    width: 585px;
+    height: 130px;
+    padding: 20px;
+  }
+  
+  .pagina3 aside article section footer li{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display:inline-block;
+    margin: 15px 6px;
+    border-radius:50%; 
+    list-style: none;
+  }
+
+  .pagina4{
+    background-color: black;
+    height: 950px;
+    width: 850px;
+    
+    margin: 10px auto;
+  }
+  .pagina4 aside{
+    background-color: gray;
+    width: 120px;
+    height: 220px;
+    margin: 15px 0 0 15px;
+    display:inline-block;
+    }
+    .pagina4 aside div{
+        background-color: white;
+        width: 75px;
+        height: 75px;
+        margin: 15px 10px 40px 23px;
+        border-radius:50%; 
+      }
+
+      .pagina4 aside nav{
+        background-color: white;
+        width: 90px;
+        height: 200px;
+        margin: 12px 12px 12px 15px;
+        border-radius:50%; 
+      }
+      .pagina4 ul{
+        background-color: gray;
+        width: 80px;
+        height: 220px;
+        margin: 15px 0 0 15px;
+        display:inline-block;
+       }
+       .pagina4 article{
+        background-color: gray;
+        width: 260px;
+        height: 220px;
+        margin: 15px 0 0 15px;
+        display:inline-block;
+        vertical-align: top;
+      }
+      .pagina4 article footer{
+        background-color: #5D6D7E;
+        width: 230px;
+        height: 50px;
+        margin: 15px 0 0 15px;
+        padding: 1px 0 0 0;
+      }
+
+      .pagina4 article footer nav{
+        background-color: white;
+        width: 210px;
+        height: 30px;
+        margin: 10px 0 0 10px;
+        border-radius:50%;
+      }
+      .pagina4 article aside{
+        background-color: #5D6D7E;
+        width: 105px;
+        height: 130px;
+        margin: 12px 0 0 15px;
+      }
+      .pagina4 article aside nav{
+        background-color: white;
+        width: 60px;
+        height: 120px;
+        margin: 5px 0 0 20px;
+      }
+      .pagina4 article aside div{
+        background-color: white;
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        margin: 7px 0 0 25px;
+      }
+      .pagina4 section{
+        background-color: gray;
+        width: 495px;
+        height: 220px;
+        margin: 15px 0 0 15px;
+        display:inline-block;
+      }
+      .pagina4 section article{
+        background-color: #5D6D7E;
+        width: 465px;
+        height: 190px;
+        margin: 15px 0 0 15px;
+      }
+      .pagina4 section article main{
+        background-color: #212F3C;
+        width: 395px;
+        height: 120px;
+        margin: 15px 0 0 15px;
+      }
+      .pagina4 section article main li{
+        background-color: #707B7C;
+        width: 115px;
+        height: 120px;
+        margin: 0 10px 0 4px;
+        display: inline-block;
+        list-style: none;
+      }
+      
+      .pagina4 section article main li div{
+        background-color:white;
+        width: 80px;
+        height: 80px;
+        margin: 20px 0 0 17px;
+        border-radius: 50px;
+      }
+
+      .pagina4 footer{
+        background-color: gray;
+        width: 220px;
+        height: 220px;
+        display:inline-block;
+        margin: 20px 20px 0px 18px;
+        vertical-align: top;
+      }
+      .pagina4 nav{
+        background-color:gray;
+        width: 280px;
+        height: 220px;
+        display:inline-block;
+        margin: 20px 0px 0px 5px;
+      }
+      .pagina4 footer section{
+        background-color: #5D6D7E;
+        width: 190px;
+        height: 190px;
+        
+      }
+      .pagina4 footer section nav{
+        background-color: white;
+        width: 170px;
+        height: 170px;
+        margin: 13px 0 0 10px;
+        border-radius: 97px;    
+      }
+.pagina4 nav ul{
+    background-color: #5D6D7E;
+    width: 250px;
+    height: 200px;
+    margin: 10px 10px;
+}
+
+     .pagina4 nav ul article{
+        background-color:  #707B7C;
+        margin: 90px 0px 0px 0px;
+        width: 200px;
+        height: 100px;
+     }
+     .pagina4 nav ul div{
+        background-color:white;
+        width: 210px;
+        height: 50px;
+        margin: 10px 0px -60px 22px;
+        border-radius: 50%;
+     }
+      .pagina4 nav ul article aside{
+        background-color: white;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin: 10px 0 0 5px;
+      }
+      .pagina4 footer div{
+        background-color: #5D6D7E;
+        width: 198px;
+        height: 200px;
+        margin: 10px 10px;
+      }
+
+.pagina4 footer div nav {
+    background-color: #707B7C;
+    margin: 10px 10px 10px 12px;
+    width: 171px;
+    height: 100px;
+
+}
+.pagina4 footer div nav ul{
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px 0 0 5px;
+}
+.pagina4 footer div aside{
+    background-color: white;
+    width: 185px;
+    height: 50px;
+    margin: 109px 0px -176px 7px;
+    border-radius: 50%; 
+}
+
+.pagina4 h3{
+    background-color: gray;
+    width: 776px;
+    height: 200px;
+    margin: 15px 0 0 15px;
+}
+
+.pagina4 h3 article{
+    background-color: #212F3C;
+    width: 127px;
+    height: 165px;
+    margin: 20px 10px 0 12px;
+    display: inline-block;
+    list-style: none;
+}
+  .pagina4 h3 article div{
+    background-color: white;
+    width: 97px;
+    height: 97px;
+    margin: 30px 0px 0px 15px;
+    border-radius: 50px;
+  }  
+ .pagina4 h3 article nav{
+    background-color: white;
+    width: 115px;
+    height: 40px;
+    margin: 25px 0px 0px 7px;
+    border-radius: 50%;
+ }
+
+
